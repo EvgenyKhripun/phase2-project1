@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Conda environment
+env/
+*.env
+*.conda
+
+# IDE
+.vscode/
+.idea/
+
+# PyTorch временные файлы
+*.pth.temp
+
+# Данные, если большие
+data/
